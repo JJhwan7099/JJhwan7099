@@ -7,6 +7,15 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </div> 
 </div>
 
+## Activity
+---
+- 2020~ : 광운대학교 소프트웨어학부 
+- 2024.03 ~ : 2024.12 AWS CLOUD CLUB 1th
+- 2024.11 : 광운해커톤 대상 (INFRA 파트)
+- 2025.03 ~ : 멋쟁이 사자처럼 (SERVER)
+- 2025.05 ~ 2025.09 :  DDD 12기 SERVER 파트
+- 2025.08.29 ~ : 안드로이드 앱 Keeply 운영 (DDD 12기 안드로이드 1팀)
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
   <div style="margin: 0 auto; text-align: center;" align="center"> 
