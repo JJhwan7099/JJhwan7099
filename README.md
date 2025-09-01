@@ -44,7 +44,7 @@
 <p>
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJhwan7099&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJhwan7099&layout=compact&theme=tokyonight" 
     height="150"
   />
 
