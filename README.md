@@ -16,9 +16,9 @@
 - 2025.05 ~ 2025.09 :  DDD 12기 SERVER 파트
 - 2025.08.29 ~ : 안드로이드 앱 Keeply 운영 (DDD 12기 안드로이드 1팀)
 
-<div align="center">
+<div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-  <div style="margin: 0 auto; text-align: center;" align="center"> 
+  <div style="margin: 0 auto; text-align: center;" align="left"> 
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -37,9 +37,9 @@
   </div>
 </div>
 
-<div align="center">
+<div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-  <div align="center"> 
+  <div align="left"> 
     <a href="https://dstrace.tistory.com"> 
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
