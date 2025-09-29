@@ -15,6 +15,7 @@
 - 2025.03 ~ : 멋쟁이 사자처럼 (SERVER)
 - 2025.05 ~ 2025.09 :  DDD 12기 SERVER 파트
 - 2025.08.29 ~ : 안드로이드 앱 Keeply 운영 (DDD 12기 안드로이드 1팀)
+- 2025.09.27 ~ : SOPT 37th SERVER 파트
 
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
